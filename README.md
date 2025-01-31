@@ -56,7 +56,6 @@
 <a href="#"><img alt="K6" src="https://img.shields.io/badge/K6-7D64FF.svg?logo=k6&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
 </p>
 
 <h4 align="center">⚙ Software</h4>
