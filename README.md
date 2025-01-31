@@ -11,7 +11,7 @@
 {  
 
 * 👂 `My name is`: **Dominic**,
-* 👩 `Pronouns`: **He/Him**,
+* 👨 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **22 years old**,
 * 🌱 `I’m currently learning`: **K6**,
 * ❤️ `I love`: **Energy Drinks**,
