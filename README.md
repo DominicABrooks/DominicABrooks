@@ -10,7 +10,7 @@
 
 {  
 
-* 👂 `My name is`: **Dominic**,
+* 🧑‍💻 `My name is`: **Dominic**,
 * 👨 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **22 years old**,
 * 🌱 `I’m currently learning`: **K6**,
