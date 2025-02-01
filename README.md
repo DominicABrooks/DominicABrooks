@@ -14,7 +14,6 @@
 * 👨 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **22 years old**,
 * 🌱 `I’m currently learning`: **K6**,
-* ❤️ `I love`: **Energy Drinks**,
 * 💻 `Favorite lang`: **Rust & TypeScript**  
 
 }
