@@ -12,7 +12,7 @@
 
 * 🧑‍💻 `My name is`: **Dominic**,
 * 👨 `Pronouns`: **He/Him**,
-* ⚡ `I'm`: **22 years old**,
+* ⚡ `I'm`: **23 years old**,
 * 🌱 `I’m currently learning`: **K6**,
 * 💻 `Favorite lang`: **Rust & TypeScript**  
 
