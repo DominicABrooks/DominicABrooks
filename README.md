@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/securitocat.png' width='25%'>  
+<img align='right' src='https://octodex.github.com/images/securitocat.png' width='25%'/>  
 
 {  
 
@@ -17,10 +17,13 @@
 }
 
 <br/>
+<br/>
+<br/>
 
 <h2 align="center">🌱 My Skills</h2>
 
 <h4 align="center">💻 Programming Languages</h4>
+
 <p align="center">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
