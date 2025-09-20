@@ -11,8 +11,6 @@
 {  
 
 * 🧑‍💻 `My name is`: **Dominic**,
-* 👨 `Pronouns`: **He/Him**,
-* 🎂 `I'm`: **23 years old**,
 * 🌱 `I’m currently learning`: **K6**,
 * 💻 `Favorite tech`: **Playwright (with TypeScript)**  
 
