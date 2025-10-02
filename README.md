@@ -20,9 +20,9 @@
 <br/>
 <br/>
 
-<h2 align="center">🌱 My Skills</h2>
+<h2 align="center">My Skills</h2>
 
-<h4 align="center">💻 Programming Languages</h4>
+<h4 align="center">Programming Languages</h4>
 
 <p align="center">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
@@ -31,7 +31,7 @@
 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
 </p>
 
-<h4 align="center">📚 Automation Frameworks & Testing Tools</h4>
+<h4 align="center">Automation Frameworks & Testing Tools</h4>
 <p align="center">
 <img alt="Playwright" src="https://img.shields.io/badge/Playwright-F7B500.svg?logo=playwright&logoColor=black">
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white">
@@ -50,7 +50,7 @@
 <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?logo=sonarqube&logoColor=white">
 </p>
 
-<h4 align="center">⚙ CI/CD & Test Infrastructure</h4>
+<h4 align="center">CI/CD & Test Infrastructure</h4>
 <p align="center">
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=githubactions&logoColor=white">
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white">
@@ -61,13 +61,13 @@
 <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white">
 </p>
 
-<h4 align="center">🌐 API & Web Testing</h4>
+<h4 align="center">API & Web Testing</h4>
 <p align="center">
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black">
 </p>
 
-<h4 align="center">☁ Cloud Platforms & Databases</h4>
+<h4 align="center">Cloud Platforms & Databases</h4>
 <p align="center">
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure-0078D7.svg?logo=azuredevops&logoColor=white">
@@ -78,7 +78,7 @@
 <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
 </p>
 
-<h4 align="center">📋 Collaboration & Project Tools</h4>
+<h4 align="center">Collaboration & Project Tools</h4>
 <p align="center">
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white">
 <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white">
