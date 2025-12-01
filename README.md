@@ -95,7 +95,7 @@
 
 <p align="center">
 🔗 <a href="https://dominicabrooks.github.io"><b>My Blog — Testing, QA, and Engineering Notes</b></a><br/>
-🚀 <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/"><b>Galactic Fruit – Test Artifacts & Case Study</b></a>
+🚀 <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/"><b>Game Testing – Test Artifacts & Case Study</b></a>
 </p>
 
 <br/>
