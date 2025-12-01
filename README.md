@@ -8,11 +8,12 @@
 
 <img align='right' src='https://octodex.github.com/images/securitocat.png' width='25%'/>  
 
-{  
-
-* 🧑‍💻 `My name is`: **Dominic**,
-* 🌱 `I’m currently learning`: **K6**,
-* 💻 `Favorite tech`: **Playwright (with TypeScript)**  
+{
+  
+* 🧑‍💻 `My name is`: **Dominic**  
+* 🌱 `I’m currently learning`: **K6**  
+* 💻 `Favorite tech`: **Playwright (TypeScript)**  
+* 📝 `I write about testing & QA here`: **https://dominicabrooks.github.io**  
 
 }
 
@@ -86,6 +87,15 @@
 <img alt="TestRail" src="https://img.shields.io/badge/TestRail-007ACC.svg?logoColor=white">
 <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D.svg?logo=confluence&logoColor=white">
 <img alt="Port.io" src="https://img.shields.io/badge/Port.io-0078D7.svg?logo=portio&logoColor=white">
+</p>
+
+<br/>
+
+<h2 align="center">📝 Blog & Latest Project</h2>
+
+<p align="center">
+🔗 <a href="https://dominicabrooks.github.io"><b>My Blog — Testing, QA, and Engineering Notes</b></a><br/>
+🚀 <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/"><b>Galactic Fruit – Test Artifacts & Case Study</b></a>
 </p>
 
 <br/>
