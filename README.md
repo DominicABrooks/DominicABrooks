@@ -13,7 +13,7 @@
 * 🧑‍💻 `My name is`: **Dominic**  
 * 🌱 `I’m currently learning`: **K6**  
 * 💻 `Favorite tech`: **Playwright (TypeScript)**  
-* 📝 `I write about testing & QA here`: **https://dominicabrooks.github.io**  
+* 🍅 `Currently working on`: <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/">**Galactic Fruit**</a>
 
 }
 
