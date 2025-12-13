@@ -16,7 +16,7 @@ Feb 2024 – Mar 2025
 - Reduced regression feedback time from 48 hours to <1 hour by building Playwright automation framework from scratch, removing offshore dependency for test execution  
 
 **QA Tester**   
-Dec 2020 – Jan 2024 
+Dec 2022 – Feb 2024 
 - Triaged bugs, verified fixes, and supported gameplay testing and design of post-funding projects to ensure software quality  
 
 <h2 align="center">Education</h2>
