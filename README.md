@@ -1,39 +1,42 @@
-<h2 align="center">👋 Hi there</h2>
+<h1 align="center">Dominic Brooks</h1>
+<p align="center" ><img src="https://komarev.com/ghpvc/?username=DominicABrooks&color=blueviolet"/></p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=DominicABrooks&color=blueviolet"/>
+SDET / Software Engineer in QA / SET with a B.S. in Computer Science, specializing in test automation frameworks, API & contract testing, performance testing, CI/CD, observability, and automation infrastructure. I build scalable frameworks that reduce release cycles, increase coverage, and improve QA strategy.
 </p>
 
-<hr/>
+<h2 align="center">Work Experience</h2>
 
-<img align='right' src='https://octodex.github.com/images/securitocat.png' width='25%'/>  
+**QA Engineer**  
+Mar 2025 – Present
+- Currently building and optimizing Playwright frameworks, performance testing, and test infrastructure for multiple products at the #1 fastest-growing company in the Research Triangle Park  
 
-{
-  
-* `My name is`: **Dominic**  
-* `I’m currently learning`: **K6**  
-* `Favorite tech`: **Playwright (TypeScript)**  
-* `Currently working on`: <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/">**Galactic Fruit**</a>
+**QA Engineer**  
+Feb 2024 – Mar 2025
+- Reduced regression feedback time from 48 hours to <1 hour by building Playwright automation framework from scratch, removing offshore dependency for test execution  
 
-}
+**QA Tester**   
+Dec 2020 – Jan 2024 
+- Triaged bugs, verified fixes, and supported gameplay testing and design of post-funding projects to ensure software quality  
 
-<br/>
-<br/>
-<br/>
+<h2 align="center">Education</h2>
+
+**B.S. Computer Science**     
+**ISTQB Certified Tester**   
 
 <h2 align="center">My Skills</h2>
 
-<h4 align="center">Programming Languages</h4>
+<h4>Programming Languages</h4>
 
-<p align="center">
+<p>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
 </p>
 
-<h4 align="center">Automation Frameworks & Testing Tools</h4>
-<p align="center">
+<h4>Automation Frameworks & Testing Tools</h4>
+<p>
 <img alt="Playwright" src="https://img.shields.io/badge/Playwright-F7B500.svg?logo=playwright&logoColor=black">
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white">
 <img alt="Appium" src="https://img.shields.io/badge/Appium-472D7B.svg?logo=appium&logoColor=white">
@@ -51,8 +54,8 @@
 <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?logo=sonarqube&logoColor=white">
 </p>
 
-<h4 align="center">CI/CD & Test Infrastructure</h4>
-<p align="center">
+<h4>CI/CD & Test Infrastructure</h4>
+<p>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=githubactions&logoColor=white">
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white">
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azuredevops&logoColor=white">
@@ -62,14 +65,14 @@
 <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white">
 </p>
 
-<h4 align="center">API & Web Testing</h4>
-<p align="center">
+<h4>API & Web Testing</h4>
+<p>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black">
 </p>
 
-<h4 align="center">Cloud Platforms & Databases</h4>
-<p align="center">
+<h4>Cloud Platforms & Databases</h4>
+<p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure-0078D7.svg?logo=azuredevops&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
@@ -79,8 +82,8 @@
 <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
 </p>
 
-<h4 align="center">Collaboration & Project Tools</h4>
-<p align="center">
+<h4>Collaboration & Project Tools</h4>
+<p>
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white">
 <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white">
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azuredevops&logoColor=white">
@@ -89,14 +92,11 @@
 <img alt="Port.io" src="https://img.shields.io/badge/Port.io-0078D7.svg?logo=portio&logoColor=white">
 </p>
 
-<br/>
+<h2>Blog & Latest Project</h2>
 
-<h2 align="center">Blog & Latest Project</h2>
 
-<p align="center">
- <a href="https://dominicabrooks.github.io"><b>My Blog — Testing, QA, and Engineering Notes</b></a><br/>
- <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/"><b>Game Testing – Test Artifacts & Case Study</b></a>
-</p>
+ - <a href="https://dominicabrooks.github.io"><b>My Blog</b></a><br/>
+ - <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/"><b>Galactic Fruit (Game Testing) – Test Artifacts & Case Study</b></a>
 
 <br/>
 
