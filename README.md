@@ -10,10 +10,10 @@
 
 {
   
-* 🧑‍💻 `My name is`: **Dominic**  
-* 🌱 `I’m currently learning`: **K6**  
-* 💻 `Favorite tech`: **Playwright (TypeScript)**  
-* 🍅 `Currently working on`: <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/">**Galactic Fruit**</a>
+* `My name is`: **Dominic**  
+* `I’m currently learning`: **K6**  
+* `Favorite tech`: **Playwright (TypeScript)**  
+* `Currently working on`: <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/">**Galactic Fruit**</a>
 
 }
 
@@ -91,11 +91,11 @@
 
 <br/>
 
-<h2 align="center">📝 Blog & Latest Project</h2>
+<h2 align="center">Blog & Latest Project</h2>
 
 <p align="center">
-🔗 <a href="https://dominicabrooks.github.io"><b>My Blog — Testing, QA, and Engineering Notes</b></a><br/>
-🚀 <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/"><b>Game Testing – Test Artifacts & Case Study</b></a>
+ <a href="https://dominicabrooks.github.io"><b>My Blog — Testing, QA, and Engineering Notes</b></a><br/>
+ <a href="https://dominicabrooks.github.io/galactic-fruit-test-artifacts/"><b>Game Testing – Test Artifacts & Case Study</b></a>
 </p>
 
 <br/>
