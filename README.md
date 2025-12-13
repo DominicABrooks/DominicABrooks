@@ -17,7 +17,7 @@ Feb 2024 – Mar 2025
 
 **QA Tester**   
 Dec 2022 – Feb 2024 
-- Triaged bugs, verified fixes, and supported gameplay testing and design of post-funding projects to ensure software quality  
+- Conducted exploratory and user acceptance testing for multiplayer games, triaging bugs, balancing gameplay, providing support, and moderating in-game chats and social platforms.
 
 <h2 align="center">Education</h2>
 
