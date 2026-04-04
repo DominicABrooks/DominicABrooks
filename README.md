@@ -5,25 +5,6 @@
 SDET / Software Engineer in QA / SET with a B.S. in Computer Science, specializing in test automation frameworks, API & contract testing, performance testing, CI/CD, observability, and automation infrastructure. I build scalable frameworks that reduce release cycles, increase coverage, and improve QA strategy.
 </p>
 
-<h2 align="center">Work Experience</h2>
-
-**QA Engineer**  
-Mar 2025 – Present
-- Currently building and optimizing Playwright frameworks, performance testing, and test infrastructure for multiple products at the #1 fastest-growing company in the Research Triangle Park  
-
-**QA Engineer**  
-Feb 2024 – Mar 2025
-- Reduced regression feedback time from 48 hours to <1 hour by building Playwright automation framework from scratch, removing offshore dependency for test execution  
-
-**QA Tester**   
-Dec 2022 – Feb 2024 
-- Conducted exploratory and user acceptance testing for multiplayer games, triaging bugs, balancing gameplay, providing support, and moderating in-game chats and social platforms.
-
-<h2 align="center">Education</h2>
-
-**B.S. Computer Science**     
-**ISTQB Certified Tester**   
-
 <h2 align="center">My Skills</h2>
 
 <h4>Programming Languages</h4>
