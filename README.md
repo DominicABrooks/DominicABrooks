@@ -2,7 +2,7 @@
 <p align="center" ><img src="https://komarev.com/ghpvc/?username=DominicABrooks&color=blueviolet"/></p>
 
 <p align="center">
-SDET / Software Engineer in QA / SET with a B.S. in Computer Science, specializing in test automation frameworks, API & contract testing, performance testing, CI/CD, observability, and automation infrastructure. I build scalable frameworks that reduce release cycles, increase coverage, and improve QA strategy.
+SDET / QA Engineer with a B.S. in Computer Science, specializing in test automation frameworks, API & contract testing, performance testing, CI/CD, observability, and automation infrastructure. I build scalable frameworks that reduce release cycles, increase coverage, and improve QA strategy.
 </p>
 
 <h2 align="center">My Skills</h2>
