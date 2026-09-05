@@ -40,7 +40,8 @@ Software Engineer in QA with a B.S. in Computer Science specializing in test aut
 
 
  - <a href="https://dominicabrooks.github.io"><b>My Blog</b></a><br/>
-* <a href="https://pwn.college"><b>pwn.college – Cybersecurity & Vulnerability Research</b></a> <img src="https://pwn.college/belt/orange.svg" alt="Orange Belt" width="60"> <br>Recently enjoying learning application security and vulnerability research as a hobby!
+* <a href="https://pwn.college"><b>pwn.college</b></a> <img src="https://pwn.college/belt/orange.svg" alt="Orange Belt" width="60"> <br>
+  Learning more about application security, vulnerability research, and reverse engineering.
 
 <br/>
 
