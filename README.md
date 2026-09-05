@@ -19,7 +19,7 @@ SDET / QA Engineer with a B.S. in Computer Science specializing in test automati
 
 <p>
 <img alt="Playwright" src="https://img.shields.io/badge/Playwright-F7B500.svg?logo=playwright&logoColor=black">
-<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18.svg?logo=vitest&logoColor=white">
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black">
 <img alt="K6" src="https://img.shields.io/badge/K6-7D64FF.svg?logo=k6&logoColor=white">
