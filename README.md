@@ -40,7 +40,7 @@ Software Engineer in QA with a B.S. in Computer Science specializing in test aut
 
 
  - <a href="https://dominicabrooks.github.io"><b>My Blog</b></a><br/>
-* Deepening expertise in application security, advanced web/API exploitation, secure SDLC, and security testing.
+* Deepening expertise in application security, advanced web/API exploitation, and secure SDLC.
 
 <br/>
 
