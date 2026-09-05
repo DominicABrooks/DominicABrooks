@@ -2,7 +2,7 @@
 <p align="center" ><img src="https://komarev.com/ghpvc/?username=DominicABrooks&color=blueviolet"/></p>
 
 <p align="center">
-SDET / QA Engineer with a B.S. in Computer Science specializing in test automation, API testing, application security, CI/CD, and automation infrastructure.
+Software Engineer in QA with a B.S. in Computer Science specializing in test automation, API testing, application security, CI/CD, and automation infrastructure.
 </p>
 
 <h2>My Favorite Tools</h2>
